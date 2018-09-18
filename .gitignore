@@ -1,0 +1,9 @@
+/.svn/*
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspectivev3
+xcuserdata
+xcshareddata
+/Pods
+.DS_Store
